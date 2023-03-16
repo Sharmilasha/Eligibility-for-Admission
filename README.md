@@ -18,6 +18,7 @@ Step6: Stop the execution.
 
 ## Program:
 Developed by : sharmila .A Register Number : 212221230094
+```
 using System;
 
 public class ConsoleApp1
@@ -55,7 +56,7 @@ public class ConsoleApp1
 
     }
 }
-
+```
 
 
 
