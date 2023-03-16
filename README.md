@@ -63,9 +63,12 @@ public class ConsoleApp1
 
 
 ## Output:
+![g1](https://user-images.githubusercontent.com/94506182/225504593-96f5e7b8-efaa-4aa7-8322-b6f237d27073.png)
+![p2](https://user-images.githubusercontent.com/94506182/225504788-7b35b4d4-946c-4a81-9205-6897c7de2bed.jpeg)
 
 
 
 
 
 ## Result:
+Thus, a C# program to check the eligibility of a student on engineering admission has been executed successfully.
